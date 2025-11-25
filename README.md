@@ -8,3 +8,4 @@ How to run the application:
 Issues:
 1. Needs better dataset
 2. Needs good PC to run this fast
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fstory%2Fis-a-tomato-a-fruit-or-a-vegetable&psig=AOvVaw0ethJYb1xFwsacBGNbKRQh&ust=1764138937089000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKDd9unXjJEDFQAAAAAdAAAAABAE
